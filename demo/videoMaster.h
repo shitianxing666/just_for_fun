@@ -22,6 +22,7 @@ enum  FrameProcType {
 class VideoMaster
 {
 public:
+	typedef std::shared_ptr<VideoMaster> ptr;
 	VideoMaster();
 	~VideoMaster();
 	void run(cv::Mat &frame);

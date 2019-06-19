@@ -1,0 +1,6 @@
+%YAML:1.0
+---
+videoPath: "\\config\\video\\1.avi"
+imgPath: "\\config\\img\\"
+iconPath: "\\config\\icon\\"
+imgSize: 7
