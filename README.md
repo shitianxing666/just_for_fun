@@ -1,6 +1,6 @@
 ## Development Environment 
 * Visual Studio 2017<br>
-* OpenCV3.42<br>
+* OpenCV 3.42<br>
 * C++11 <br>
 
 ## Describe  
