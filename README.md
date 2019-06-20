@@ -3,7 +3,7 @@
 * OpenCV 3.42<br>
 * C++11 <br>
 
-## Describe  
+## Description 
 * Please add your video file in 
 ```
    config/video/
