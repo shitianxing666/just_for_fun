@@ -8,10 +8,15 @@
 ```
    config/video/
 ```
-* Then open the 
+* Open the file
 ```
   config/envir_config.yml
 ```
-* Replace the ***1.avi ***with your video name in ***videoPath***. <br>
+* Find the line
+```
+  videoPath: "\\config\\video\\1.avi
+
+```
+* Replace the ***1.avi*** with your video name .
 * You will see that your screen begins to twitch with the video,<br>
 then everything will be dull. <br>
