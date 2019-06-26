@@ -14,9 +14,9 @@
 ```
 * Find the line
 ```
-  videoPath: "\\config\\video\\1.avi
+  videoPath: "\\config\\video\\1.avi"
 
 ```
 * Replace the ***1.avi*** with your video name .
-* You will see that your screen begins to twitch with the video,<br>
+* When it runs , you will see that your screen begins to twitch with the video,<br>
 then everything will be dull. <br>
