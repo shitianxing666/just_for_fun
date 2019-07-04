@@ -4,11 +4,14 @@
 * C++11 <br>
 
 
+
 ## Description 
-* The program is written by ***C*** and ***C++***. It includes simple ***windows programming*** (window dissolution makes the screen look like a dissolving effect).<br>
+* The program is written by ***C*** and ***C++***. 
+* It includes simple ***windows programming*** (window dissolution makes the screen look like a dissolving effect).<br>
 * And simple ***image processing*** (capturing each frame of video and processing it customized). <br>
 * At present, all the processing of the code settings is random, which does not seem to work very well, 
 but if you set the parameters yourself, the video will look interesting. <br>
+
 
 
 ## Tutorial
