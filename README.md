@@ -3,13 +3,14 @@
 * OpenCV 3.42<br>
 * C++11 <br>
 
+
 ## Description 
-* The program is written by C and C++. It includes simple windows programming <br>
-(window dissolution makes the screen look like a dissolving effect)and simple <br>
-image processing, capturing each frame of video and processing it customized. <br>
-At present, all the processing of the code settings is random, which does not <br>
-seem to work very well, but if you set the parameters yourself, the video will <br>
-look interesting. <br>
+* The program is written by ***C*** and ***C++***. It includes simple w***indows programming ***
+(window dissolution makes the screen look like a dissolving effect).<br>
+* And simple ***image processing***(capturing each frame of video and processing it customized). <br>
+* At present, all the processing of the code settings is random, which does not seem to work very well, 
+but if you set the parameters yourself, the video will look interesting. <br>
+
 
 ## Tutorial
 * Please add your video file in 
@@ -23,7 +24,6 @@ look interesting. <br>
 * Find the line
 ```
   videoPath: "\\config\\video\\1.avi"
-
 ```
 * Replace the ***1.avi*** with your video name .
 * When it runs , you will see that your screen begins to twitch with the video,<br>
